@@ -1,0 +1,4 @@
+#Fri May 03 22:54:59 ICT 2019
+base.0=D\:\\fluttervscode\\flutterigapi\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
