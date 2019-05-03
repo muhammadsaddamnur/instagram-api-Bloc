@@ -6,7 +6,7 @@ import 'package:flutterigapi/models/mediaModel.dart';
 
 class MediaApiProvider {
   Client client = Client();
-  static String tokenIg = "1252173143.89a588b.44e5dabb667a4dffa487d8e53f706b5c";
+  static String tokenIg = ""; //ganti jadi token id instagram
   final _url =
       "https://api.instagram.com/v1/users/self/media/recent/?access_token=$tokenIg";
 
